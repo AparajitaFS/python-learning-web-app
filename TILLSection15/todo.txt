@@ -1,0 +1,4 @@
+presentation
+Debugging
+coding and testing
+making presentation
